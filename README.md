@@ -14,4 +14,8 @@ The helper_functions folder contains several libraries and folders with classes 
 
 # Data
 In the repository for each image size a data set with contrast ratio 100 (or 0.01) and its binary and two-point variants is provided.
-On request I can provide the remaining contrast ratio data sets and other variants :)
+On request I can provide the remaining contrast ratio data sets and other variants.
+
+
+# Feedback
+If something does not work, if it is too messy, or if you want more data contact me or leave something in the issues section :)
